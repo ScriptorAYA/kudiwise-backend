@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KudiWise Backend
 
 KudiWise is a user-friendly crypto payment and investment app targeting Zongo and Asante communities.  
@@ -26,3 +27,6 @@ Users can learn crypto trading in Hausa or Asante Twi via an AI tutor.
 5. Run migrations: `python manage.py migrate`
 6. Start server: `python manage.py runserver`
 
+=======
+# kudiwise-backend
+My Init Project for crypto and web3 literacy+transactions
